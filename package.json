@@ -1,0 +1,14 @@
+{
+  "name": "ts-mem-leak",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "rollup -c rollup.config.js -w"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^4.1.1",
+    "rollup": "^2.3.2",
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3"
+  }
+}
